@@ -9,5 +9,4 @@ Softwares used:
 
 MySQL, PHPMyAdmin, Xampp Server
 
-Project Screenshots:
 
